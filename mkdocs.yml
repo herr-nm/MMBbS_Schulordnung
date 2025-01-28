@@ -1,0 +1,48 @@
+site_name: MMBbS Schulordnung
+
+theme:
+  name: readthedocs
+  language: de
+  font: false
+  favicon: bilder/favicon.png
+  logo: bilder/logo.png
+
+  extra_css:
+  - 'extra.css'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  - include-markdown
+  - search
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+use_directory_urls: false
+
+repo_url: 
+
+site_url: https://www.mmbbs.de
+
+nav:
+    - Schulordnung: 'index.md'
+    - Anlage I: 'Anlage 1.md'
+    - Anlage II: 'Anlage 2.md'
+    - Anlage III: 'Anlage 3.md'
+    - Anlage IV: 'Anlage 4.md'
+    - Anlage V: 'Anlage 5.md'
+    - Anlage VI: 'Anlage 6.md'
+    - Anlage VII: 'Anlage 7.md'
+    - Anlage VIII: 'Anlage 8.md'
+    - Anlage IX: 'Anlage 9.md'
+    - Anlage X: 'Anlage 10.md'
+    - Anlage XI: 'Anlage 11.md'
+    - Anlage XII: 'Anlage 12.md'
