@@ -1,12 +1,12 @@
 # Changelog
 
-## 07.02.2025
+## 07.02.2025 - Inhaltliches Update
 
 ### Allgemeine Hinweise
 
 - **Bemerkung:** Neue Regelung zum Thema "Lorem Ipsum"
 - **Gliederungspunkt:** Schulordnung der MMBbS Hannover > B. Allgemeine Bestimmungen > I. Verhaltensregeln/Rahmenbedingungen
-- [Link zur Fundstelle](index.html#i-verhaltensregelnrahmenbedingungen)
+- **Verortung in der Schulordnung:** [Link zur Fundstelle](index.html#i-verhaltensregelnrahmenbedingungen)
 
 ### Neue Version
 
