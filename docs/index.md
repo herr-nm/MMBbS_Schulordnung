@@ -1,5 +1,9 @@
 # Schulordnung der MMBbS Hannover
 
+!!! example "Disclaimer"
+
+    Dies ist ein Versuch zur Darstellung der Schulordnung. Die jeweils geltendenen Regelungen unter https://www.mmbbs.de/schulordnung/ haben in jedem Fall Vorrang.
+
 Fassung vom 01. August 2024
 
 ## Präambel
