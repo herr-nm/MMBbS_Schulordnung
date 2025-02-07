@@ -29,15 +29,15 @@ Eine detaillierte Ärzteliste können Sie im Sekretariat (Raum 2.04) einsehen.
 
 ### C. Verhalten im Brandfall/bei Evakuierung
 
-In jedem Unterrichtsraum ist die Brandschutzordnung A ausgehängt, in der das Verhalten im Brandfall beschrieben und der Sammelplatz ausgewiesen ist. Bei einem Feuer sind die Fenster grundsätzlich zu schließen und der Klassen- raum ist umgehend zu verlassen. Alle persönlichen Dinge, wie Jacken, Mäntel und Taschen verbleiben im Raum, um keine Zeit zu verlieren. Die Lehrkraft verlässt den Raum als letztes und schließt die Tür ab.
+In jedem Unterrichtsraum ist die Brandschutzordnung A ausgehängt, in der das Verhalten im Brandfall beschrieben und der Sammelplatz ausgewiesen ist. Bei einem Feuer sind die Fenster grundsätzlich zu schließen und der Klassenraum ist umgehend zu verlassen. Alle persönlichen Dinge, wie Jacken, Mäntel und Taschen verbleiben im Raum, um keine Zeit zu verlieren. Die Lehrkraft verlässt den Raum als letztes und schließt die Tür ab.
 
 Eine Nutzung der Fahrstühle ist verboten! Bei benachteiligten Lernenden, die Gehschwierigkeiten haben und ggf. im Rollstuhl sitzen, ist zu Schuljahresbeginn festzulegen, welche Mitlernenden die beeinträchtigten Lernenden bei einer Evakuierung so unterstützen, dass die Räumung des Gebäudes gewährleistet ist.
 
-Ist die Benutzung der Fluchtwege nicht mehr möglich, so bleiben die Lernenden unter Aufsicht der Lehrkraft in ihren Räumen, bis Rettung kommt. In diesem Fall sind die Türen zu schließen. Über Mobiltelefone und/oder das geschlos- sene Fenster ist eine Kontaktaufnahme mit außenstehenden Personen vorzunehmen. Gleichzeitig sind die Fenster solange zu schließen, bis eine Evakuierung über die Fensterfront erfolgt. Die Lernenden sind vor unüberlegten Schrit- ten zurückzuhalten und vor Panik zu bewahren.
+Ist die Benutzung der Fluchtwege nicht mehr möglich, so bleiben die Lernenden unter Aufsicht der Lehrkraft in ihren Räumen, bis Rettung kommt. In diesem Fall sind die Türen zu schließen. Über Mobiltelefone und/oder das geschlossene Fenster ist eine Kontaktaufnahme mit außenstehenden Personen vorzunehmen. Gleichzeitig sind die Fenster solange zu schließen, bis eine Evakuierung über die Fensterfront erfolgt. Die Lernenden sind vor unüberlegten Schritten zurückzuhalten und vor Panik zu bewahren.
 
 **Am Sammelplatz:**
 
-Die Lehrkraft prüft die Vollzähligkeit der Klasse mit Hilfe von WebUntis nach Möglichkeit mit eigenem mobilem Endge- rät. Wenn die Prüfung nicht möglich ist, steht das Sekretariat am Sammelplatz mit einem Tablet zur Verfügung. Die Vollzähligkeit der Klasse bzw. fehlende Lernende am Sammelplatz sind einem Mitglied der Leitungsrunde zu mel- den (SL Jörg Sönckens, stV Dr. Martin Opitz, AL Claudia Wessel, Britta Härke, Uta Breuning, Joachim Kemmries)
+Die Lehrkraft prüft die Vollzähligkeit der Klasse mit Hilfe von WebUntis nach Möglichkeit mit eigenem mobilem Endgerät. Wenn die Prüfung nicht möglich ist, steht das Sekretariat am Sammelplatz mit einem Tablet zur Verfügung. Die Vollzähligkeit der Klasse bzw. fehlende Lernende am Sammelplatz sind einem Mitglied der Leitungsrunde zu melden (SL Jörg Sönckens, stV Dr. Martin Opitz, AL Claudia Wessel, Britta Härke, Uta Breuning, Joachim Kemmries)
 
 | | |
 | :--- | :--- |
