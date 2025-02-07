@@ -2,7 +2,7 @@
 
 !!! example "Disclaimer"
 
-    Dies ist ein Versuch zur Darstellung der Schulordnung. Die jeweils geltendenen Regelungen unter https://www.mmbbs.de/schulordnung/ haben in jedem Fall Vorrang.
+    Dies ist ein Versuch zur Darstellung der Schulordnung. Die jeweils geltendenen Regelungen [auf der offiziellen Homepage der MMBbS](https://www.mmbbs.de/schulordnung/) haben in jedem Fall Vorrang.
 
 Fassung vom 01. August 2024
 
