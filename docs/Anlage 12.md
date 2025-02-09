@@ -52,7 +52,7 @@ Die Lehrkraft prüft die Vollzähligkeit der Klasse mit Hilfe von WebUntis nach 
 ### Unfall/Krankheit
 
 1. Erste Hilfe leisten und verletzte/kranke Person beruhigen
-2. Sekretariat, Schulleitung, Klassenlehrkraft und An- gehörige informieren.
+2. Sekretariat, Schulleitung, Klassenlehrkraft und Angehörige informieren.
 3. Ggf. kranke Person ins Krankenzimmer - Raum 2.15 - begleiten
 4. Tasche, Unterlagen und Eigentum der kranken Person sicherstellen
 5. Ggf. Krankentransport anfordern oder Krankenwagen über 112 anfordern.
