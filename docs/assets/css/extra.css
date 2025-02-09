@@ -1,0 +1,82 @@
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/static/Roboto_Condensed-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/static/Roboto_Condensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../fonts/static/Roboto_Condensed-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Falls du weitere Varianten brauchst, kannst du weitere @font-face-Regeln ergänzen */
+
+/* Schriftart global setzen */
+body {
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+/* Überschriften anpassen */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Condensed', sans-serif !important;
+    font-weight: bold;
+}
+
+/* Spezifische Überschrift anpassen, falls nötig */
+h1 {
+    font-size: 2.2em;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+/* Hintergrundfarbe der Kopfzeile ändern */
+.wy-side-nav-search {
+    background-color: #14508c !important; /* Dunkelblau */
+}
+
+/* Hintergrundfarbe der Seitenleiste ändern */
+.wy-nav-side {
+    background-color: #b9dcf5 !important;
+}
+
+/* Textfarbe der Links in der Navigation */
+.wy-menu-vertical a {
+    color: #FFFFFF #b9dcf5 !important;
+}
+
+/* Hover-Farbe für Links in der Navigation */
+.wy-menu-vertical a:hover {
+    background-color: #1e87c8 !important;
+    color: #ffffff !important;
+}
+
+/* Haupttextfarbe */
+body {
+    color: #000000 !important;
+}
+
+/* Link-Farbe */
+a {
+    color: #0066cc !important;
+}
+
+/* Tabellen-Hintergrundfarbe */
+.wy-table-responsive table {
+    background-color: #f8f9fa !important;
+}
