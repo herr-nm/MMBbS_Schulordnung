@@ -99,3 +99,9 @@ a {
 .rst-versions a:hover {
     color: #ffffff !important;
 }
+
+@media screen and (max-width: 768px) {
+    .wy-nav-top {
+        background-color: #14508c !important;
+    }
+}
