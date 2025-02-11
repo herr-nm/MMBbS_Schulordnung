@@ -80,3 +80,22 @@ a {
 .wy-table-responsive table {
     background-color: #f8f9fa !important;
 }
+
+@media screen and (max-width: 768px) {
+    .wy-nav-top a {
+        color: #ffffff !important;
+    }
+
+    .wy-nav-top a:hover {
+        color: #ffffff !important;
+    }
+}
+
+.rst-versions a {
+    color: #ffffff !important;
+    text-decoration: none;
+}
+
+.rst-versions a:hover {
+    color: #ffffff !important;
+}
