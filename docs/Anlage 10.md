@@ -1,4 +1,4 @@
-# Anlage IX
+# Anlage X
 ## *Infektionsschutz*
 
 ### Belehrung für Eltern und sonstige Sorgeberechtigte gem. §34 Abs. 5 S. 2 Infektionsschutzgesetz (IfSG)

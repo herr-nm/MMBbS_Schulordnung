@@ -1,4 +1,4 @@
-# Anlage IX
+# Anlage XII
 ## *Notfallplan*
 
 **Notfallplan der<br>Multi Media Berufsbildenden Schulen<br>Expo Plaza 3, 30539 Hannover<br>Tel: 0511 646198-11<br>Stand: September 2024**
