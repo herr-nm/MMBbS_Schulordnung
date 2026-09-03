@@ -6,7 +6,7 @@
 
 - **Bemerkung:** Neue Regelung zum Thema "Lorem Ipsum"
 - **Gliederungspunkt:** Schulordnung der MMBbS Hannover > B. Allgemeine Bestimmungen > I. Verhaltensregeln/Rahmenbedingungen
-- **Verortung in der Schulordnung:** [Link zum Abschnitt](index.html#i-verhaltensregelnrahmenbedingungen)
+- **Verortung in der Schulordnung:** [Link zum Abschnitt](index.md#i-verhaltensregelnrahmenbedingungen)
 
 ### Neue Version
 
