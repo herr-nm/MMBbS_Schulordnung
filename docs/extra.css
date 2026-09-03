@@ -1,0 +1,169 @@
+/* ==========================================
+   1. Theme-Farben & Typografie
+   ========================================== */
+[data-md-color-scheme="default"] {
+  /* Hauptfarbe: #14508C (Header & Navigation) */
+  --md-primary-fg-color:        #14508C !important;
+  --md-primary-fg-color--light:  #1E87C8 !important;
+  --md-primary-fg-color--dark:   #0f3d6b !important;
+
+  /* Zweitfarbe: #1E87C8 (Akzente & Buttons) */
+  --md-accent-fg-color:         #1E87C8 !important;
+
+  /* Drittfarbe: #FAE561 (Textmarker/Hintergründe) */
+  --md-typeset-mark-color:      #FAE561 !important;
+}
+
+/* Links im Haupttext */
+.md-typeset a {
+  color: #14508C;
+}
+
+/* ==========================================
+   2. Header-Layout, Logo & Suche
+   ========================================== */
+/* Vergrößert das Logo im Header */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem !important;
+  width: auto !important;
+}
+
+/* Suchfeld im normalen Layout-Fluss */
+.md-search {
+  position: relative !important;
+  left: auto !important;
+  width: auto !important;
+  margin-left: 1rem;
+}
+
+/* Schiebt den Titel bündig über den Hauptinhalt */
+@media screen and (min-width: 60em) {
+  .md-header__title {
+    margin-left: 5.25rem !important;
+  }
+}
+
+/* ==========================================
+   3. Fußzeile & Custom Footer
+   ========================================== */
+/* Standard-Footer-Hintergrund von Material */
+.md-footer {
+  background-color: #14508C !important;
+  color: #ffffff !important;
+}
+
+/* Blendet das Standard-Material-Copyright aus */
+.md-footer-meta {
+  display: none !important;
+}
+
+/* Eigener zweispaltiger Footer Container */
+.custom-footer {
+  background-color: #14508C !important;
+  color: #ffffff;
+  padding: 1.5rem 0;
+  font-size: 0.8rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.custom-footer__inner {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.custom-footer__col--right {
+  text-align: right;
+}
+
+.custom-footer__title {
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 0.4rem;
+  font-size: 0.9rem;
+}
+
+.custom-footer__content {
+  color: #d0e1f9;
+  line-height: 1.5;
+}
+
+.custom-footer__content a {
+  color: #d0e1f9 !important;
+  text-decoration: none;
+}
+
+.custom-footer__content a:hover {
+  text-decoration: underline;
+  color: #ffffff !important;
+}
+
+/* Stellt sicher, dass der Footer-Container sichtbar bleibt */
+.md-footer {
+  display: block !important;
+  background-color: #14508C !important;
+  color: #ffffff !important;
+}
+
+/* Versteckt den Standard-Copyright-Bereich von Material */
+.md-footer-meta {
+  display: none !important;
+}
+
+/* Custom Footer Styling */
+.custom-footer {
+  background-color: #14508C !important;
+  color: #ffffff;
+  padding: 1.5rem 0;
+  font-size: 0.8rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  width: 100%;
+}
+
+.custom-footer__inner {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.custom-footer__col--right {
+  text-align: right;
+}
+
+.custom-footer__title {
+  font-weight: bold;
+  color: #ffffff;
+  margin-bottom: 0.4rem;
+  font-size: 0.9rem;
+}
+
+.custom-footer__content {
+  color: #d0e1f9;
+  line-height: 1.5;
+}
+
+.custom-footer__content a {
+  color: #d0e1f9 !important;
+  text-decoration: none;
+}
+
+.custom-footer__content a:hover {
+  text-decoration: underline;
+  color: #ffffff !important;
+}
+
+/* Blendet das Wort 'Inhaltsverzeichnis' aus */
+.md-nav--secondary .md-nav__title {
+  font-size: 0 !important;
+}
+
+/* Ersetzt es durch 'Abschnitte' */
+.md-nav--secondary .md-nav__title::before {
+  content: "Abschnitte";
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: var(--md-default-fg-color--light);
+}

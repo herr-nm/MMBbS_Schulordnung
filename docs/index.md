@@ -1,28 +1,33 @@
 # Schulordnung der MMBbS Hannover
 
-!!! example "Disclaimer"
-
-    Dies ist ein Versuch zur Darstellung der Schulordnung. Die jeweils geltendenen Regelungen [auf der offiziellen Homepage der MMBbS](https://www.mmbbs.de/schulordnung/) haben in jedem Fall Vorrang.
-
-Fassung vom 01. August 2024
+*Fassung von August 2026*
 
 ## Präambel
 
-Die Multi-Media Berufsbildenden Schulen (MMBbS) sind das Kompetenzzentrum für IT- und Medienberufe und dazugehörige Vollzeitschulformen. In der Berufsorientierung, Aus- und Weiterbildung werden fächerübergreifend technische, gestalterische, kaufmännische und soziale Bildungsprozesse etabliert.
+Die Multi Media Berufsbildenden Schulen (MMBbS) sind das Kompetenzzentrum für IT- und Medienberufe und dazugehörige Vollzeitschulformen. In der Berufsorientierung, Aus- und Weiterbildung werden fächerübergreifend technische, gestalterische, kaufmännische und soziale Bildungsprozesse etabliert.
+
 Die Förderung der selbstständigen und eigenverantwortlichen, beruflichen und sozialen Handlungsfähigkeit der Schülerinnen und Schüler ist im pädagogischen Selbstverständnis der Schule begründet.
-Die fortschreitende Digitalisierung ist zum festen Bestandteil unserer Lebens-, Berufs- und Arbeitswelt geworden. Digitale Medien beinhalten ein großes Potenzial und vielfältige Möglichkeiten zur innovativen Gestaltung unserer Lehr- und Lernprozesse. Daher sind alle Beteiligten der MMBbS in besonderem Maße dem Schutz von Persönlichkeits- und Urheberrechten sowie dem Datenschutz verpflichtet.
-Die MMBbS begleitet den Prozess des lebenslangen Lernens mit aktuellen Fort- und Weiterbildungsangeboten und ist Partner von Schülerinnen und Schülern, Eltern, Betrieben, Verbänden und anderen an der beruflichen Bildung beteiligten. In Zusammenarbeit mit Ausbildungsbetrieben aus der Region Hannover, aus Niedersachsen und darüber hinaus bildet die MMBbS qualifizierte und motivierte Arbeitskräfte aus. In über zwanzig Ausbildungsberufen, vollzeitschulischen Bildungsgängen und Schulkooperationen erwerben die Schülerinnen und Schüler zukunftsorientierte Qualifikationen. Internationale Schulpartnerschaften erweitern unseren Blick auf wirtschaftliche, technische und gesellschaftliche Entwicklungen.
 
-Die Art des Umgangs miteinander, sowohl innerhalb der Schule als auch nach außen, ist bestimmt von gegenseitigem Respekt und Toleranz, unabhängig von Geschlecht, Herkunft, Alter, Religionsbekenntnis und anderweitigen Merkmalen. Wir verzichten auf jede Art von Gewalt in Wort, Schrift und Tat und lösen Konflikte friedlich. Wir pflegen eine Kultur der Anerkennung und Wertschätzung, in der das Engagement und die unterschiedlichen Leistungen anderer wahrgenommen und gewürdigt werden. Wir erkennen an, dass jede Schülerin und jeder Schüler sowie jede Lehrkraft das Recht auf einen ungestörten Unterricht hat.
+Die fortschreitende Digitalisierung ist zum festen Bestandteil unserer Lebens-, Berufs- und Arbeitswelt geworden. Digitale Medien beinhalten ein großes Potenzial und vielfältige Möglichkeiten zur innovativen Gestaltung unserer Lehrund Lernprozesse. Daher sind alle Beteiligten der MMBbS in besonderem Maße dem Schutz von Persönlichkeits- und Urheberrechten sowie dem Datenschutz verpflichtet.
 
-Die Lehrerinnen und Lehrer sowie Mitarbeiterinnen und Mitarbeiter der Schule sind Vorbild im Verhalten. Sie sind verpflichtet und autorisiert, für die Einhaltung der Schulordnung zu sorgen und bei Verstößen mit Maßnahmen zu reagieren.
+Die MMBbS begleitet den Prozess des lebenslangen Lernens mit aktuellen Fort- und Weiterbildungsangeboten und ist Partner von Schülerinnen und Schülern, Eltern, Betrieben, Verbänden und anderen an der beruflichen Bildung
+beteiligten. In Zusammenarbeit mit Ausbildungsbetrieben aus der Region Hannover, aus Niedersachsen und darüber hinaus bildet die MMBbS qualifizierte und motivierte Arbeitskräfte aus. In über zwanzig Ausbildungsberufen, vollzeitschulischen Bildungsgängen und Schulkooperationen erwerben die Schülerinnen und Schüler zukunftsorientierte Qualifikationen. Internationale Schulpartnerschaften erweitern unseren Blick auf wirtschaftliche, technische und
+gesellschaftliche Entwicklungen.
+
+Die Art des Umgangs miteinander, sowohl innerhalb der Schule als auch nach außen, ist bestimmt von gegenseitigem Respekt und Toleranz, unabhängig von Geschlecht, Herkunft, Alter, Religionsbekenntnis und anderweitigen Merkmalen. Wir verzichten auf jede Art von Gewalt in Wort, Schrift und Tat und lösen Konflikte friedlich. Wir pflegen eine Kultur der Anerkennung und Wertschätzung, in der das Engagement und die unterschiedlichen Leistungen anderer
+wahrgenommen und gewürdigt werden. Wir erkennen an, dass jede Schülerin und jeder Schüler sowie jede Lehrkraft das Recht auf einen ungestörten Unterricht hat.
+
+Die Lehrerinnen und Lehrer sowie Mitarbeiterinnen und Mitarbeiter der Schule sind Vorbild im Verhalten. Sie sind verpflichtet und autorisiert, für die Einhaltung der Schulordnung zu sorgen und bei Verstößen mit Maßnahmen zu reagieren. 
 
 ## A. Geltungsbereich
 
-Diese Schulordnung gilt im Schulgebäude, am außerschulischen Lernort und für die gesamte Dauer der schulischen Veranstaltungen. Bei schulischen Veranstaltungen im Ausland ist zusätzlich das dort geltende nationale Recht beachtlich. Es gelten bei außerschulischen Projekten und Unterrichtseinheiten neben dieser Schulordnung die jeweilige Hausordnung der externen Ausbildungsstätte und die Anordnungen der dort verantwortlichen Personen.
+Diese Schulordnung gilt im Schulgebäude, am außerschulischen Lernort und für die gesamte Dauer der schulischen
+Veranstaltungen. Bei schulischen Veranstaltungen im Ausland ist zusätzlich das dort geltende nationale Recht beachtlich. Es gelten bei außerschulischen Projekten und Unterrichtseinheiten neben dieser Schulordnung die jeweilige Hausordnung der externen Ausbildungsstätte und die Anordnungen der dort verantwortlichen Personen.
 Die Schulordnung gilt sinngemäß auch für onlinedezentralen Unterricht (Distanzunterricht).
 
-Kooperationsschulen, mit denen die MMBbS im Rahmen der Berufsorientierung zusammenarbeitet, stellen sicher und tragen die Verantwortung für das vollständige Vorliegen der Empfangsbekenntnisse der Schulordnung der MMBbS von Seiten der Schülerinnen und Schüler sowie Erziehungsberechtigten der jeweiligen Kooperationsschule.
+Kooperationsschulen, mit denen die MMBbS im Rahmen der Berufsorientierung zusammenarbeitet, stellen sicher und
+tragen die Verantwortung für das vollständige Vorliegen der Empfangsbekenntnisse der Schulordnung der MMBbS
+von Seiten der Schülerinnen und Schüler sowie Erziehungsberechtigten der jeweiligen Kooperationsschule.
 
 ## B. Allgemeine Bestimmungen
 
