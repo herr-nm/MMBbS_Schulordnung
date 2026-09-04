@@ -6,11 +6,14 @@ theme:
   name: material
   custom_dir: overrides
   language: de
+
   logo: bilder/logo.png
   favicon: bilder/favicon.png
+
   palette:
     primary: custom
     accent: custom
+
   features:
     - navigation.instant
     - navigation.tracking
@@ -23,6 +26,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+
   - pymdownx.arithmatex:
       generic: true
 
@@ -30,24 +34,39 @@ plugins:
   - include-markdown
   - search
 
+  - exporter:
+      formats:
+        pdf:
+          stylesheets:
+            - resources/stylesheets/pdf.scss
+
+          covers:
+            front: resources/templates/covers/front.html.j2
+            #back: resources/templates/covers/back.html.j2
+
+          aggregator:
+            enabled: true
+            output: combined.pdf
+            covers: limits
+
 use_directory_urls: false
 
-repo_url: 
+repo_url:
 
 site_url: https://www.mmbbs.de
 
 nav:
-    - Schulordnung: 'index.md'
-    - Anlage I: 'Anlage 1.md'
-    - Anlage II: 'Anlage 2.md'
-    - Anlage III: 'Anlage 3.md'
-    - Anlage IV: 'Anlage 4.md'
-    - Anlage V: 'Anlage 5.md'
-    - Anlage VI: 'Anlage 6.md'
-    - Anlage VII: 'Anlage 7.md'
-    - Anlage VIII: 'Anlage 8.md'
-    - Anlage IX: 'Anlage 9.md'
-    - Anlage X: 'Anlage 10.md'
-    - Anlage XI: 'Anlage 11.md'
-    - Anlage XII: 'Anlage 12.md'
-    - Changelog: 'changelog.md'
+  - Schulordnung: 'index.md'
+  - Anlage I - IT-Infrastruktur: 'Anlage 1.md'
+  - Anlage II - außerschulische Partner: 'Anlage 2.md'
+  - Anlage III - Nutzungs- und Verwertungsrechte: 'Anlage 3.md'
+  - Anlage IV - Pädagogisches Konzept: 'Anlage 4.md'
+  - Anlage V - Aufsichtskonzept: 'Anlage 5.md'
+  - Anlage VI - Prüfungsordnung: 'Anlage 6.md'
+  - Anlage VII - Raumordnung: 'Anlage 7.md'
+  - Anlage VIII - Sportunterricht: 'Anlage 8.md'
+  - Anlage IX - Verbot des Mitbringens von Waffen: 'Anlage 9.md'
+  - Anlage X - Infektionsschutz: 'Anlage 10.md'
+  - Anlage XI - RiSU: 'Anlage 11.md'
+  - Anlage XII - Notfallplan: 'Anlage 12.md'
+  - Changelog: 'changelog.md'

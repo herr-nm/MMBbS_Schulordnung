@@ -1,3 +1,13 @@
+<style>
+  @media print {
+    footer,
+    .custom-footer,
+    .md-footer {
+      display: none !important;
+    }
+  }
+</style>
+
 <!-- Navigations-Links (Zurück / Weiter) -->
 {% if page.previous_page or page.next_page %}
   <nav class="md-footer__inner md-grid" aria-label="{{ lang.t('footer') }}">

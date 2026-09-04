@@ -1,0 +1,87 @@
+@page {
+  size: A4;
+  margin: 15mm;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+}
+
+/* Hauptcontainer für das Deckblatt */
+.front-cover {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  text-align: center;
+
+  height: 265mm;
+  width: 100%;
+
+  overflow: hidden; /* Sicherheitsnetz gegen minimalen Überlauf */
+
+  page-break-after: always;
+  break-after: page;
+}
+
+/* Header & Logo */
+.cover-header {
+  padding-top: 5mm;
+  flex-shrink: 0;
+}
+
+.cover-logo img {
+  width: 70mm;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Mittlerer Inhalt */
+.cover-content {
+  margin-top: 10mm;
+  flex-grow: 1; /* füllt den Platz, schiebt Footer automatisch nach unten */
+}
+
+.cover-school {
+  font-size: 16pt;
+  color: #555555;
+  margin-bottom: 5mm;
+  line-height: 1.3;
+}
+
+.cover-title {
+  font-size: 34pt;
+  font-weight: bold;
+  color: #000000;
+}
+
+.cover-line {
+  width: 50mm;
+  height: 2mm;
+  margin: 8mm auto;
+  background-color: #0069a6;
+}
+
+/* FOOTER: per Flexbox statt position:absolute */
+.cover-footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  height: 18mm;
+  flex-shrink: 0;
+}
+
+.cover-address {
+  text-align: left;
+  font-size: 8.5pt;
+  color: #666666;
+  line-height: 1.3;
+}
+
+.cover-secondary-logo img {
+  height: 15mm;
+  width: auto;
+  display: block;
+}

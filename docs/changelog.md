@@ -1,5 +1,7 @@
 # Changelog
 
+TODO Herausnehmen
+
 ## 07.02.2025 - Inhaltliches Update
 
 ### Allgemeine Hinweise
