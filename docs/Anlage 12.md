@@ -1,13 +1,13 @@
 # Anlage XII
-## *Notfallplan*
+<h2>Notfallplan</h2>
 
 **Notfallplan der<br>Multi Media Berufsbildenden Schulen<br>Expo Plaza 3, 30539 Hannover<br>Tel: 0511 646198-11<br>Stand: September 2024**
 
-### A. Ziel
+## A. Ziel
 
 Der vorliegende Plan dient dazu, in einem Notfall schnellstmöglich die Sicherheit aller in der Schule befindlichen Personen zu gewährleisten. Er soll Ihnen als Schüler/Schülerin unserer Schule einige wichtige Informationen bieten. Dieses betrifft insbesondere die Evakuierung des Schulgebäudes bei einem Feueralarm.
 
-### B. Wichtige Telefonnummern
+## B. Wichtige Telefonnummern
 
 - Polizei 110
 - Feuerwehr / Rettungswagen 112
@@ -27,7 +27,7 @@ Eine detaillierte Ärzteliste können Sie im Sekretariat (Raum 2.04) einsehen.
 | Notfalltransport | Krankenbeförderung KBH Medical Service GmbH | 0511 647370 | 
 | Krankenhaus | Agnes-Karll-Krankenhaus | 0511 82080 |
 
-### C. Verhalten im Brandfall/bei Evakuierung
+## C. Verhalten im Brandfall/bei Evakuierung
 
 In jedem Unterrichtsraum ist die Brandschutzordnung A ausgehängt, in der das Verhalten im Brandfall beschrieben und der Sammelplatz ausgewiesen ist. Bei einem Feuer sind die Fenster grundsätzlich zu schließen und der Klassenraum ist umgehend zu verlassen. Alle persönlichen Dinge, wie Jacken, Mäntel und Taschen verbleiben im Raum, um keine Zeit zu verlieren. Die Lehrkraft verlässt den Raum als letztes und schließt die Tür ab.
 
@@ -49,7 +49,7 @@ Die Lehrkraft prüft die Vollzähligkeit der Klasse mit Hilfe von WebUntis nach 
 ![Sammelplatz](bilder/Anlage%2012%20-%20Bild%203.png)
 <br><br>
 
-### Unfall/Krankheit
+## Unfall/Krankheit
 
 1. Erste Hilfe leisten und verletzte/kranke Person beruhigen
 2. Sekretariat, Schulleitung, Klassenlehrkraft und Angehörige informieren.

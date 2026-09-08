@@ -1,5 +1,5 @@
 # Anlage IX
-## *Verbot des Mitbringens von Waffen, Munition und vergleichbaren Gegenständen sowie von Chemikalien in SchulenRdErl. d. MK v. 6. 8. 2014 — 36.3-81 704/03 — VORIS 22410 —*
+<h2>Verbot des Mitbringens von Waffen, Munition und vergleichbaren Gegenständen sowie von Chemikalien in SchulenRdErl. d. MK v. 6. 8. 2014 — 36.3-81 704/03 — VORIS 22410 —</h2>
 
 1.	Es wird untersagt, Waffen i. S. des WaffG in der jeweils geltenden Fassung mit in die Schule, auf das Schulgelände oder zu Schulveranstaltungen zu bringen oder bei sich zu führen. Dazu gehören die im WaffG als verboten bezeichneten Gegenstände (insbesondere die sog. Butterflymesser, Faustmesser, Springmesser, Fallmesser, Stahlruten, Totschläger, Schlagringe usw.) sowie die Gegenstände, für die nach dem WaffG ein Verbot des Führens besteht (Einhandmesser und feststehende Messer mit einer Klingenlänge von mehr als 12 cm usw.) sowie Schusswaffen.
 2.	Das Verbot erstreckt sich auch auf gleichgestellte Gegenstände (z. B. Schreckschuss-, Reizstoff- und Signalwaffen), Gassprühgeräte, Hieb- und Stoßwaffen sowie waffenähnliche Gegenstände wie Schlachter-, Küchen- oder Taschenmesser, Pfeffersprays und Laser-Pointer.

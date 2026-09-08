@@ -1,5 +1,5 @@
 # Anlage II
-## *Einwilligung in die Nutzung und Weitergabe personenbezogener Daten von Schülerinnen und Schülern für schulische Zwecke und für die Kooperation mit außerschulischen Partnern an der OS Gehrden, IGS Linden, IGS Laatzen*
+<h2>Einwilligung in die Nutzung und Weitergabe personenbezogener Daten von Schülerinnen und Schülern für schulische Zwecke und für die Kooperation mit außerschulischen Partnern an der OS Gehrden, IGS Linden, IGS Laatzen</h2>
 
 Sehr geehrte Erziehungsberechtigte, liebe Schülerinnen und Schüler,
 

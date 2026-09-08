@@ -1,7 +1,7 @@
 # Anlage VI
-## *Prüfungsordnung*
+<h2>Prüfungsordnung</h2>
 
-### Art der Prüfungen
+## Art der Prüfungen
 
 Im Unterricht werden folgende Leistungsnachweise erbracht:
 
@@ -11,7 +11,7 @@ Im Unterricht werden folgende Leistungsnachweise erbracht:
 - Fachpraxis
 - Tests
 
-### An der MMBbS werden u. a. folgende Abschlussprüfungen durchgeführt:
+## An der MMBbS werden u. a. folgende Abschlussprüfungen durchgeführt:
 
 - Fachhochschulreifeprüfungen schriftlich und mündlich (Fachoberschule Gestaltung)
 - Fachhochschulreifeprüfungen schriftlich und mündlich (ausbildungsbegleitender Ergänzungsbildungsgang für Teilzeit-Berufsschülerinnen und –schüler)
@@ -26,17 +26,17 @@ Bei den mündlichen Prüfungen können nach schriftlichem Antrag an den Prüfung
 Die Bewertung der Abschlussprüfungen (Fachhochschulreifeprüfung sowie Abschlussprüfung der Berufsfachschulen) erfolgt durch die Fachlehrkräfte, die Festsetzung der Noten erfolgt durch die Prüfungskommission. Die Bewertungsgrundlagen werden mit den Lernenden besprochen und digital zur Verfügung gestellt.
 Für Teilnehmerinnen und Teilnehmer an den Zusatzkursen im Rahmen der Cisco Networking Academy wird nach jedem Kursmodul eine Prüfung durchgeführt. Das Bestehen der Prüfung ist für den Erhalt einer Teilnahmebestätigung mit Nennung der vermittelten Unterrichtsinhalte erforderlich. Das Bestehen ist nicht unbedingt erforderlich für die Teilnahme an einem Folgekurs. Die Prüfung besteht aus einem online durchgeführten Kenntnistest und einer fachpraktischen Prüfung in Form von Laborübungen (real oder simuliert). Die Modulprüfung gilt als bestanden, wenn im Mittel der beiden Prüfungsteile 50% der geforderten Leistung erreicht wurden, in jedem der Prüfungsteile jedoch mindestens 30%.
 
-### Zulassung zur Prüfung
+## Zulassung zur Prüfung
 
 Die Zulassung zur Fachhochschulreifeprüfung im Ergänzungsbildungsgang für Teilzeit-Berufsschülerinnen und
 –schüler setzt eine Teilnahme an mindestens 75 % der vorbereitenden Unterrichtstermine in dem jeweiligen Fach voraus. Die Zulassung zu den Abschlussprüfungen der Networking und Security Kurse der Cisco Networking Academy setzt eine Teilnahme an mindestens 75 % der vorbereitenden Unterrichtstermine voraus.
 
-### Durchführung von Prüfungen
+## Durchführung von Prüfungen
 
 Vor Prüfungen (Klassenarbeiten, Abschlussprüfungen) kann von den Schülerinnen und Schülern verlangt werden, ihre internetfähigen mobilen Endgeräte zur Vermeidung von Täuschungsversuchen an zentraler Stelle abzulegen. Gem. § 28 Verwaltungsverfahrensgesetz (VwVfG) haben Schülerinnen und Schüler eine Mitwirkungspflicht bei der Aufklärung einer Täuschungsvermutung. Bei einem eindeutig nachweisbaren Täuschungsversuch wird die Leistung der jeweiligen Schülerin/des jeweiligen Schülers mit der Note „ungenügend“ 6/0 Punkte bewertet. Bei nicht eindeutiger Nachweisbarkeit muss die Leistung wiederholt werden.
 Während der Prüfung sind die vorgegebenen Pausenzeiten einzuhalten. Weitere Anweisungen werden durch die Aufsichtführenden vor Prüfungsbeginn mitgeteilt.
 
-### Versäumnis der Abschlussprüfung
+## Versäumnis der Abschlussprüfung
 
 Versäumen die Prüflinge die schriftliche oder mündliche Abschlussprüfung aus Krankheitsgründen, so melden sie sich am Prüfungstag telefonisch oder per Mail im Sekretariat der MMBbS bis 07:45 Uhr. Am Prüfungstag ist dann ein ärztliches Attest in elektronischer Form in Verbindung mit einer Entschuldigung per Mail an info@mmbbs.de unter Nennung der Prüfung und Klasse zu schicken, das Original ist unverzüglich nachzureichen.
 
@@ -51,13 +51,13 @@ Liegt eine entsprechende Bescheinigung vor, kann die Prüfung an einem vom Prüf
 
 Versäumt die Schülerin/der Schüler die Prüfung aus anderen als gesundheitlichen von ihr/ihm nicht zu vertretenden Gründen, gelten die Regelungen entsprechend. Anstelle eines ärztlichen Attestes ist dann eine geeignete Bescheinigung einzureichen.
 
-### Versäumnis von Klassenarbeiten und anderen Leistungsüberprüfungen:
+## Versäumnis von Klassenarbeiten und anderen Leistungsüberprüfungen:
 
 Versäumt eine Schülerin oder ein Schüler eine Klassenarbeit oder eine andere Leistungsüberprüfung aus Krankheitsgründen, so ist an diesem Tag ein ärztliches Attest in Verbindung mit einer Entschuldigung per E-Mail an die Klassenlehrkraft zu schicken. Das Original ist auf Verlangen nachzureichen.
 
 Versäumt die Schülerin/der Schüler die Klassenarbeit oder Leistungsüberprüfung aus anderen als gesundheitlichen von ihr/ihm nicht zu vertretenden Gründen, gelten die Regelungen entsprechend. Anstelle eines ärztlichen Attestes ist dann eine geeignete Bescheinigung einzureichen.
 
-### Leistungsbewertungskriterien
+## Leistungsbewertungskriterien
 
 In allen Unterrichtsfächern und Lernfeldern werden die Kriterien zur Leistungsbewertung von den Fachlehrkräften am Anfang des Schuljahres vorgestellt.Es erfolgen prozentuale Bewertungen von lernstandsbezogenen und lernprozessbegleitenden Leistungsnachweisen, aus denen sich die Zeugnisnote von 1-6 ergibt. Zu Grunde gelegt wird für alle Bildungsgänge, bis auf die Klassen 11 und 12 der Fachoberschule sowie den Ergänzungsbildungsgang BSFHR, das folgende Bewertungsschema:
 
@@ -84,12 +84,11 @@ Für die Klassen 11 und 12 der Fachoberschule sowie den Ergänzungsbildungsgang 
 Die Bewertungskriterien der SAP®-Zertifikatsprüfungen werden von der SAP® SE festgelegt. Auf diese hat die
 MMBbS keinen Einfluss.
 
-
-### Bewertung des Arbeits- und Sozialverhaltens
+## Bewertung des Arbeits- und Sozialverhaltens
 
 Zur Bewertung des Arbeits- und Sozialverhaltens können unter anderem folgende Aspekte herangezogen werden:
 
-#### Arbeitsverhalten
+### Arbeitsverhalten
 
 Leistungsbereitschaft und Mitarbeit
 
@@ -105,7 +104,7 @@ Ziel- und Ergebnisorientierung
 - Die Schülerin/der Schüler ist kooperationsfähig und arbeitet aktiv in Teams mit.
 - Die Schülerin / der Schüler ist selbstständig.
 
-#### Sozialverhalten
+### Sozialverhalten
 
 Einhalten von Regeln und Absprachen
 

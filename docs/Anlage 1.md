@@ -1,5 +1,5 @@
 # Anlage I
-## *Nutzung von schülereigenen digitalen Endgeräten und der schulischen IT-Infrastruktur*
+<h2>Nutzung von schülereigenen digitalen Endgeräten und der schulischen IT-Infrastruktur</h2>
 
 ## IT-Konzept der Multi Media BbS
 

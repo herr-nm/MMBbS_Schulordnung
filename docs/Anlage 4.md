@@ -1,29 +1,29 @@
 # Anlage IV
-## *Pädagogisches Konzept der Multi Media BBS*
+<h2>Pädagogisches Konzept der Multi Media BBS</h2>
 
-### Primat der Pädagogik
+## Primat der Pädagogik
 
 Die Multi Media BBS versteht sich als Digitale Schule, die nach dem Primat der Pädagogik handelt. Auch als digitale Schule setzen wir digitale Technik nur dort und insoweit ein, wie sie pädagogisch sinnvoll ist. Der Einsatz von digitaler Technik unterliegt einer permanenten Evaluation durch das Kollegium der Schule.
 
 Im Rahmen der Corona-Pandemie hat die Multi Media BBS online dezentralen Unterricht unter Anwendung des BYOD-Konzepts erfolgreich eingeführt und evaluiert.
 
-### Stand der Technik
+## Stand der Technik
 
 Die eingesetzte Technik ist auf dem Stand der Technik, was sowohl im Bereich der zu vermittelnden Unterrichtsinhalte, wie der im pädagogischen Bereich eingesetzten Methoden zum Tragen kommt.
 
-### Aktualität und Lernortkooperation
+## Aktualität und Lernortkooperation
 
 Die Kooperation mit unseren Partnern in der beruflichen Ausbildung ist uns besonders wichtig. In enger Kooperation mit den externen Partnern (wie den Ausbildungsbetrieben, der IHK/HWK, IT-/Medien-Verbänden, WorldSkills, IT-Gipfel, multinationalen Firmen, wie SAP, MS und Cisco) werden die Unterrichtsinhalte den geltenden Ordnungsmitteln entsprechend permanent aktualisiert und angepasst.
 
-### BYOD Konzept
+## BYOD Konzept
 
 Das BYOD Konzept ist für Lehrkräfte und die Schülerinnen und Schüler konsequent umgesetzt. Lernmanagementsysteme und digitale Medien stehen im Unterricht und in der außerunterrichtlichen Arbeit permanent zur Verfügung. Die Schule setzt dem Stand der Technik folgend auf cloudbasierte Anwendungen.
 
-### Datenschutz und Datensicherheit
+## Datenschutz und Datensicherheit
 
 Datenschutz und Datensicherheit sind zentraler Lerngegenstand und gleichzeitig leitend für das organisationseigene und pädagogische Handeln aller an Schule Beteiligten. Der Umgang mit personenbezogenen Daten auf Basis der EU-DSGVO ist im pädagogischen Konzept der Schule immanent.
 
-### Berufsbezogene Lernsituationen
+## Berufsbezogene Lernsituationen
 
 Reale berufsbezogene Lernsituationen bilden die Basis für den kompetenzorientierten Unterricht an der Schule.
 

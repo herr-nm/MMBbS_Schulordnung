@@ -1,5 +1,5 @@
 # Anlage VII
-## *Raumordnung*
+<h2>Raumordnung</h2>
 
 !!! Note "Hinweis"
 

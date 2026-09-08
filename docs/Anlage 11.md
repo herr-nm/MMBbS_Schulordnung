@@ -1,5 +1,5 @@
 # Anlage XI
-## *RiSU*
+<h2>RiSU</h2>
 
 !!! Note "Hinweis"
 

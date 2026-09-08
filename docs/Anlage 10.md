@@ -1,7 +1,7 @@
 # Anlage X
-## *Infektionsschutz*
+<h2>Infektionsschutz</h2>
 
-### Belehrung für Eltern und sonstige Sorgeberechtigte gem. §34 Abs. 5 S. 2 Infektionsschutzgesetz (IfSG)
+## Belehrung für Eltern und sonstige Sorgeberechtigte gem. §34 Abs. 5 S. 2 Infektionsschutzgesetz (IfSG)
 
 Wenn Ihr Kind eine ansteckende Erkrankung hat und dann die Schule oder andere Gemeinschaftseinrichtungen (GE) besucht, in die es jetzt aufgenommen werden soll, kann es andere Kinder, Lehrer, Erzieher oder Betreuer anstecken. Außerdem sind gerade Säuglinge und Kinder während einer Infektionskrankheit abwehrgeschwächt und können sich dort noch Folgeerkrankungen (mit Komplikationen) zuziehen. Um dies zu verhindern, möchten wir Sie mit diesem Merkblatt über Ihre Pflichten, Verhaltensweisen und das übliche Vorgehen unterrichten, wie sie das Infektionsschutzgesetz vorsieht. In diesem Zusammenhang sollten Sie wissen, dass Infektionskrankheiten in der Regel nichts mit mangelnder Sauberkeit oder Unvorsichtigkeit zu tun haben. Deshalb bitten wir Sie stets um Offenheit und vertrauensvolle Zusammenarbeit.
 
@@ -24,7 +24,7 @@ Wann ein Besuchsverbot der Schule oder einer anderen Gemeinschaftseinrichtung f�
 Gegen Diphtherie, Masern, Mumps, (Röteln), Kinderlähmung, Typhus und Hepatitis A stehen Schutzimpfungen zur Verfügung. Liegt dadurch ein Schutz vor, kann das Gesundheitsamt in Einzelfällen das Besuchsverbot sofort aufheben. Bitte bedenken Sie, dass ein optimaler Impfschutz jedem Einzelnen sowie der Allgemeinheit dient. Sollten Sie noch Fragen haben, wenden Sie sich bitte an Ihren Haus- oder Kinderarzt oder an Ihr Gesundheitsamt.
 Auch wir helfen Ihnen gerne weiter.
 
-### Belehrung für Eltern und sonstige Sorgeberechtigte gem. § 34 Abs. 5 S. 2 Infektionsschutzgesetz (IfSG)
+## Belehrung für Eltern und sonstige Sorgeberechtigte gem. § 34 Abs. 5 S. 2 Infektionsschutzgesetz (IfSG)
 
 Ich habe die Informationen zur Kenntnis genommen.
 

@@ -1,5 +1,5 @@
 # Anlage III
-## *Übertragung von Nutzungs- und Verwertungsrechten an Werken von Schülerinnen und Schülern*
+<h2>Übertragung von Nutzungs- und Verwertungsrechten an Werken von Schülerinnen und Schülern</h2>
 
 Die von Schülerinnen und Schülern im Rahmen des Unterrichts oder schulischer Projekte erstellten Bild- und Tonaufnahmen, sowie andere Werke können regelmäßig unter den Anwendungsbereich des Urheberrechts fallen.
 

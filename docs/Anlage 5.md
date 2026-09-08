@@ -1,7 +1,7 @@
 # Anlage V
-## *Aufsichtskonzept der MMBbS*
+<h2>Aufsichtskonzept der MMBbS</h2>
 
-### 1. Personenkreis
+## 1. Personenkreis
 
 Die Kolleginnen und Kollegen der MMBbS führen gem. § 62 NSchG während der Schulzeit, im Unterricht, in den Pausen und während der Schulveranstaltungen die Aufsicht über die Schülerinnen und Schüler aus.
 
@@ -12,7 +12,7 @@ Je nach Situation werden aktuelle Gefährdungsmöglichkeiten (z.B. Baustellen au
 Alle Lehrkräfte sind für alle Schülerinnen und Schüler weisungsberechtigt und stehen in Garantenstellung, d. h. sie haben eine besondere Autoritäts- und Aufsichtspflicht. Aufsichtspflichten und Aufsichtszeiten ergeben sich aus den Rechtsvorschriften und der pädagogischen Verantwortung der Lehrkräfte gem. § 50 Abs. 1 Satz 1 u. 2 NSchG.1
 Die Aufsicht wird während der gesamten Zeit aktiv, präventiv und kontinuierlich durch die Aufsichtspersonen geführt. Die Wahrnehmung der Aufsichtspflicht - auch gegenüber volljährigen Schülerinnen und Schüler - liegt in der Verantwortung jeder Lehrkraft.
 
-### 2. Räumlich
+## 2. Räumlich
 
 Die MMBbS verfügt nicht über Schulgelände außerhalb des Gebäudes. Mit Durchschreiten der Eingangstür betritt oder verlässt man das Schulgelände. Die EXPO Plaza zählt nicht zum Schulgelände.
 
@@ -21,7 +21,6 @@ Die MMBbS verfügt nicht über Schulgelände außerhalb des Gebäudes. Mit Durch
 
 Das Schulgebäude ist in verschiedene Bereiche eingeteilt. Die Ebenen -1, 0, +1, +2 und +3 gehören zum Schulgelände. Der Zugang zu den zum Schulgelände gehörenden Etagen ist nur über das linke Treppenhaus zulässig und möglich. Die Nutzung des rechten (grünen) Treppenhauses ist ebenso wie das Betreten der Ebenen +4, +5 und +6 untersagt. Sie zählen nicht zum Schulgelände und werden vom Aufsichtskonzept der Schule nicht erfasst.
 Für die Pausenzeiten gibt es die Aufenthaltsbereiche A (Foyer, Erdgeschoss) und B (Rest des Schulgebäudes), die von der Pausenaufsicht betreut werden.
-
 
 ![Gebäude MMBbS](bilder/Anlage%205%20-%20Bild%203.png)
 ![Gebäude MMBbS](bilder/Anlage%205%20-%20Bild%204.png)
@@ -33,13 +32,13 @@ Für Schülerinnen und Schüler, die gem. § 62 Abs. 1 Satz 2 NSchG zum Sekundar
 
 Wird das Schulgelände zum Zwecke der Beschulung am außerschulischen Lernort oder des Sport- und Schwimmunterrichts verlassen, ist die Aufsicht nach vorheriger Einweisung durch die Schülerinnen und Schüler selbstständig erlaubt, soweit nicht besondere Probleme ersichtlich sind. Die Schülerinnen und Schüler sind durch die Lehrkräfte auf die Einhaltung der Verkehrsregeln hinzuweisen.
 
-### 3. Zeitlich
+## 3. Zeitlich
 
 Im Schulgebäude führt eine Lehrkraft ab 07:45 Uhr die sogenannte Frühaufsicht. Diese erfolgt ausschließlich im Bereich des Foyers; eingeschlossen sind die Sanitärbereiche der Ebene 0 (linkes Treppenhaus) sowie der Weg bis zur Cafeteria. Vor Schulbeginn ist den Schülerinnen und Schülern der Aufenthalt nur in diesem von der Aufsicht betreuten Bereich zulässig. Um 8:00 Uhr beginnt der Unterricht und somit für jede Lehrkraft die Aufsichtspflicht der zu unterrichtenden Lerngruppe/Klasse im Unterricht.
 Von 09:30-09:50 Uhr, von 11:20-11:40 Uhr, von 13:10-13:30 Uhr und von 15:00-15:20 Uhr sind jeweils große Pausen. In diesen Pausen führen Lehrkräfte die Aufsicht in den verschiedenen Bereichen der Schule.
 
 Falls eine Lehrkraft vertreten werden muss, ist schon im Aufsichtsplan eine Vertretung eingeteilt, damit die Aufsicht stets gewährleistet ist. Es liegt in der Verantwortung aller Lehrkräfte, sich über die Vertretungssituation der Pausenaufsicht stets zu informieren. Es werden zwei Lehrkräfte pro Pausenaufsicht eingeteilt. Diese führen jeweils Aufsicht in den beiden Aufenthaltsbereichen A und B. Die Schülerinnen und Schüler sollen sich stets beaufsichtigt fühlen.
 
-#### 4. Selbstständiges Lehren und Lernen
+## 4. Selbstständiges Lehren und Lernen
 
 Die MMBbS erzieht und bildet Schülerinnen und Schüler zu Selbstständigkeit und Verantwortungsbewusstsein. Hierfür variieren Lehr- und Lernmethoden. Selbstständiges und eigenverantwortliches Lehren und Lernen hat hohe Priorität. Voraussetzung hierfür sind Formen der indirekten Aufsichtsführung und ein hohes Maß an Regeleinhaltung aller an der Schule Beteiligten. Bei Unfällen, Schadenseintritten, unvorhergesehenen Ereignissen und/oder Vorkommnissen sind die Lehrkräfte und/oder die Schulleitung unverzüglich zu informieren.
